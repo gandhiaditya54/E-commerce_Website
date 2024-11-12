@@ -12,7 +12,7 @@ A product display for an online store made with HTML, CSS, and JavaScript. It le
 
 # Built With
 
-* # HTML and CSS: For page layout and design.
+* HTML and CSS: For page layout and design.
 * JavaScript: To make everything interactive.
 
 # Live Demo
